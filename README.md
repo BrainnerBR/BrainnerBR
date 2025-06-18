@@ -1,8 +1,6 @@
 <h1 align="center">Hello World 👋, I'm Brainer Blanco</h1>
 <h3 align="center">A Motivated Jr frontend developer from Costa Rica</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brainnerbr" alt="brainnerbr" /></a> </p>
-
 - 🔭 I’m currently working on **Vitality**
 
 - 🌱 I’m currently learning **ReactJs, php**
