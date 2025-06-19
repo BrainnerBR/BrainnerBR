@@ -1,5 +1,6 @@
-<h1 align="center">Hello World 👋, I'm Brainer Blanco</h1>
-<h3 align="center">A Motivated Jr Frontend Developer from Costa Rica</h3>
+<p align="center">
+  <img src="https://github.com/BrainnerBR/BrainnerBR/blob/main/Banner%20Github.png?raw=true" alt="Brainner Blanco Rojas | Frontend Developer"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brainnerbr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
