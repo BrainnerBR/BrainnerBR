@@ -19,6 +19,7 @@
 
 - 🎮 **Drinking Game App**: A mobile-friendly party game with real-time multiplayer modes, countdown timers and Firebase backend
 - 📊 **Inventory Manager**: A real-time inventory tracker for multiple branches, using Firebase and a responsive React UI
+- 🏃 **Fitness Tracker**: full-featured web application built with React and Tailwind CSS, focused on helping users track daily habits, fitness progress, and wellness routines.
 
 ---
 
