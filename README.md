@@ -11,7 +11,7 @@
 ### 🎓 About Me
 
 - 🌟 I'm currently working on **Vitality**, a daily motivation & habit tracker web app
-- 🚀 I'm learning **PHP** to level up my web development skills
+- 🚀 I'm learning **Typescript** to level up my web development skills
 
 ---
 
